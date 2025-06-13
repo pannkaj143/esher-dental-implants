@@ -1,0 +1,26 @@
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Sitemap: https://esherdentalimplants.co.uk/sitemap.xml
+
+# Allow all bots to crawl all content
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap
+Sitemap: https://esherdentalimplants.co.uk/sitemap.xml
+
+# Specify important pages
+Allow: /
+Allow: /contact
+Allow: /services
+Allow: /about
+Allow: /testimonials
+Allow: /faq

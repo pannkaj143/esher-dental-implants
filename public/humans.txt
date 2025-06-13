@@ -1,0 +1,19 @@
+# Humans.txt - We are people, not machines
+/* TEAM */
+Developer: Karad Infotech Ltd
+Contact: support@karadinfotech.com
+Location: UK
+
+/* SITE */
+Last Update: 2025-06-13
+Language: English (British)
+Doctype: HTML5
+IDE: VS Code
+Technology: React, TypeScript, Vite, Tailwind CSS
+
+/* DENTAL PRACTICE */
+Practice: Confidential Clinic
+Address: 359 Ewell Road, Surbiton, Surrey KT6 7BZ
+Phone: 020 8399 1291
+Email: surbiton@confidentalclinic.com
+Services: Dental Implants, Full Arch Implants, Single Tooth Implants, Multiple Tooth Implants, Same Day Implants, Bone Grafting, Implant Supported Dentures
