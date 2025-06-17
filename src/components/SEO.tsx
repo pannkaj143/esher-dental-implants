@@ -18,7 +18,7 @@ const defaultStructuredData = {
     {
       "@type": "Dentist",
       "@id": "https://esherdentalimplants.co.uk/#dentist",
-      "name": "Confidential Clinic",
+      "name": "Confidental Clinic",
       "image": "https://esherdentalimplants.co.uk/images/bcf8abc3-36c7-4874-8e33-6149cc9ba16a.png",
       "url": "https://esherdentalimplants.co.uk",
       "telephone": "020 8399 1291",
@@ -130,7 +130,7 @@ const defaultStructuredData = {
     {
       "@type": "LocalBusiness",
       "@id": "https://esherdentalimplants.co.uk/#localbusiness",
-      "name": "Confidential Clinic",
+      "name": "Confidental Clinic",
       "image": "https://esherdentalimplants.co.uk/images/bcf8abc3-36c7-4874-8e33-6149cc9ba16a.png",
       "telephone": "020 8399 1291",
       "address": {
@@ -172,7 +172,7 @@ const defaultStructuredData = {
       "@type": "WebSite",
       "@id": "https://esherdentalimplants.co.uk/#website",
       "url": "https://esherdentalimplants.co.uk",
-      "name": "Confidential Clinic - Dental Implants Esher",
+      "name": "Confidental Clinic - Dental Implants Esher",
       "description": "Leading dental implant specialists in Esher, Surrey. Expert single tooth, multiple teeth & full arch implants.",
       "publisher": {
         "@id": "https://esherdentalimplants.co.uk/#dentist"
@@ -191,7 +191,7 @@ const defaultStructuredData = {
     {
       "@type": "Organization",
       "@id": "https://esherdentalimplants.co.uk/#organization",
-      "name": "Confidential Clinic",
+      "name": "Confidental Clinic",
       "url": "https://esherdentalimplants.co.uk",
       "logo": {
         "@type": "ImageObject",
@@ -200,7 +200,7 @@ const defaultStructuredData = {
         "contentUrl": "https://esherdentalimplants.co.uk/images/bcf8abc3-36c7-4874-8e33-6149cc9ba16a.png",
         "width": 512,
         "height": 512,
-        "caption": "Confidential Clinic Logo"
+        "caption": "Confidental Clinic Logo"
       },
       "image": {
         "@id": "https://esherdentalimplants.co.uk/images/bcf8abc3-36c7-4874-8e33-6149cc9ba16a.png"
@@ -210,14 +210,14 @@ const defaultStructuredData = {
 };
 
 const SEO = ({
-  title = 'Dental Implant Specialists in Esher | Expert Implant Treatment | Confidential Clinic',
+  title = 'Dental Implant Specialists in Esher | Expert Implant Treatment | Confidental Clinic',
   description = 'Leading dental implant specialists in Esher, Surrey. Expert single tooth, multiple teeth & full arch implants. Same-day appointments available. Call 020 8399 1291 for a free consultation.',
   canonicalUrl = 'https://esherdentalimplants.co.uk',
   ogType = 'website',
   ogImage = 'https://esherdentalimplants.co.uk/images/bcf8abc3-36c7-4874-8e33-6149cc9ba16a.png',
-  ogImageAlt = 'Confidential Clinic - Premier Dental Implants in Esher, Surrey',
+  ogImageAlt = 'Confidental Clinic - Premier Dental Implants in Esher, Surrey',
   keywords = 'dental implants Esher, tooth implants Surrey, dental clinic Esher, implant dentist KT6, full arch implants Esher, single tooth implant Surrey, multiple tooth implants, dental implants near me, Banstead dentist, Esher dental clinic, Caterham implant specialist, same day implants Esher, bone grafting Surrey, implant supported dentures',
-  author = 'Confidential Clinic',
+  author = 'Confidental Clinic',
   structuredData = defaultStructuredData
 }: SEOProps) => {
   return (
@@ -241,7 +241,7 @@ const SEO = ({
       <meta property="og:image:alt" content={ogImageAlt} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:site_name" content="Confidential Clinic" />
+      <meta property="og:site_name" content="Confidental Clinic" />
       <meta property="og:locale" content="en_GB" />
       
       {/* Twitter */}
@@ -269,8 +269,8 @@ const SEO = ({
       <link rel="dns-prefetch" href="//www.googletagmanager.com" />
       
       {/* Alternative formats */}
-      <link rel="alternate" type="application/rss+xml" title="Confidential Clinic RSS Feed" href={`${canonicalUrl}/feed.xml`} />
-      <link rel="alternate" type="application/atom+xml" title="Confidential Clinic Atom Feed" href={`${canonicalUrl}/atom.xml`} />
+      <link rel="alternate" type="application/rss+xml" title="Confidental Clinic RSS Feed" href={`${canonicalUrl}/feed.xml`} />
+      <link rel="alternate" type="application/atom+xml" title="Confidental Clinic Atom Feed" href={`${canonicalUrl}/atom.xml`} />
       
       {/* Structured Data */}
       <script type="application/ld+json">

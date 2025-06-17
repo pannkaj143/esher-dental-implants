@@ -65,7 +65,7 @@ const TestimonialsSection = () => {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": "https://esherdentalimplants.co.uk/#reviews",
-    "name": "Confidential Clinic",
+    "name": "Confidental Clinic",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5.0",

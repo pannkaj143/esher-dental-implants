@@ -47,7 +47,7 @@ const Sitemap = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEO 
-        title="Sitemap | Dental Implant Services in Esher | Confidential Clinic"
+        title="Sitemap | Dental Implant Services in Esher | Confidental Clinic"
         description="Navigate our comprehensive dental implant services in Esher. Find information about single tooth implants, full arch solutions, and book your free consultation today."
         ogType="website"
       />

@@ -243,7 +243,7 @@ const ContactSection = () => {
         <div className="mt-16">
           <div className="h-[400px] rounded-lg overflow-hidden shadow-md">
             <iframe 
-              title="Confidential Clinic Location Map - Esher"
+              title="Confidental Clinic Location Map - Esher"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.8423456789!2d-0.3061234842177!3d51.3915678796046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760d1234567890%3A0x1234567890abcdef!2s359%20Ewell%20Rd%2C%20Esher%20KT6%207BZ%2C%20UK!5e0!3m2!1sen!2sus!4v1685264310957!5m2!1sen!2sus" 
               className="w-full h-full border-0"
               allowFullScreen 

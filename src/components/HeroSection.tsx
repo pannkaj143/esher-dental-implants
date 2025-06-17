@@ -116,7 +116,7 @@ const HeroSection = () => {
             }`}
             style={{ textShadow: "1px 1px 3px rgba(0,0,0,0.5)", transitionDelay: '400ms' }}
           >
-            Discover expert dental implant solutions at Confidential Clinic - where advanced technology meets compassionate care to deliver lasting, beautiful smiles. 
+            Discover expert dental implant solutions at Confidental Clinic - where advanced technology meets compassionate care to deliver lasting, beautiful smiles. 
           </p>
 
           <div 

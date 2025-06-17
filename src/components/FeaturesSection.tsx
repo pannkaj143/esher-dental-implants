@@ -181,7 +181,7 @@ const FeaturesSection = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Dental Implant Services</h2>
           <div className="w-20 h-1 bg-secondary mx-auto"></div>
           <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
-            At Confidential Clinic, we provide exceptional dental implant services with a focus on patient comfort and satisfaction.
+            At Confidental Clinic, we provide exceptional dental implant services with a focus on patient comfort and satisfaction.
           </p>
         </div>
 

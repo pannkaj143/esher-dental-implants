@@ -12,7 +12,7 @@ IDE: VS Code
 Technology: React, TypeScript, Vite, Tailwind CSS
 
 /* DENTAL PRACTICE */
-Practice: Confidential Clinic
+Practice: Confidental Clinic
 Address: 359 Ewell Road, Surbiton, Surrey KT6 7BZ
 Phone: 020 8399 1291
 Email: surbiton@confidentalclinic.com

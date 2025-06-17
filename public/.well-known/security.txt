@@ -6,7 +6,7 @@ We keep our website security up to date with the latest best practices.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please send an email to info@confidentialclinic.co.uk
+If you discover a security vulnerability, please send an email to info@Confidentalclinic.co.uk
 
 Please do not report security vulnerabilities through public GitHub issues.
 
@@ -21,6 +21,6 @@ Please do not report security vulnerabilities through public GitHub issues.
 ## Contact Information
 
 For security-related concerns:
-- Email: info@confidentialclinic.co.uk
+- Email: info@Confidentalclinic.co.uk
 - Phone: 020 8399 1291
 - Address: 359 Ewell Road, Esher, Surrey KT6 7BZ

@@ -18,7 +18,7 @@ const Footer = () => {
     <div>
       <h2 className="text-lg font-semibold mb-4">Privacy Policy</h2>
       <p className="mb-4">Last updated: May 15, 2025</p>
-      <p className="mb-4">At Confidential Clinic, we take your privacy seriously. This policy describes how we collect, use, and protect your personal information.</p>
+      <p className="mb-4">At Confidental Clinic, we take your privacy seriously. This policy describes how we collect, use, and protect your personal information.</p>
       
       <h3 className="text-md font-semibold mb-2">Information We Collect</h3>
       <p className="mb-4">We collect information that you provide directly to us, including:</p>
@@ -74,7 +74,7 @@ const Footer = () => {
             <div className="inline-block mb-4">
               <img 
                 src="/images/bddb16ef-30c2-415d-a400-bac83cdec2eb.png" 
-                alt="Confidential Clinic Logo"
+                alt="Confidental Clinic Logo"
                 className="h-16"
               />
             </div>
@@ -115,7 +115,17 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-12 pt-6 text-center text-gray-300">
-          <p>&copy; {currentYear} Confidential Clinic. All rights reserved.</p>
+            <p>
+            &copy; {currentYear}{' '}
+            <a
+              href="https://confidentalclinic.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white underline transition-colors"
+            >
+              Confidental Clinic
+            </a>. All rights reserved.
+            </p>
           <div className="mt-2">
             <button onClick={() => setShowPrivacyPolicy(true)} className="text-gray-300 hover:text-white mx-2 transition-colors">Privacy Policy</button>
             <button onClick={() => setShowTerms(true)} className="text-gray-300 hover:text-white mx-2 transition-colors">Terms of Service</button>
